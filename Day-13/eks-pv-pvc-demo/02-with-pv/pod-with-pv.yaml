@@ -14,4 +14,4 @@ spec:
   volumes:
   - name: persistent-storage
     persistentVolumeClaim:
-      claimName: demo-pvc-789
+      claimName: demo-pvc
